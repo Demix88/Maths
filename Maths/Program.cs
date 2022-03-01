@@ -31,7 +31,7 @@ namespace Maths
             string compNumber = Console.ReadLine();
             bool compared = Convert.ToInt32(compNumber) > 50;
             Console.WriteLine("Is " +compNumber + " greater than 50? " + compared + "\n =======================================");
-            Console.ReadLine();
+            
         //5
             Console.WriteLine("Please input a number I can divide by 7 : ");
             string divNo= Console.ReadLine();
